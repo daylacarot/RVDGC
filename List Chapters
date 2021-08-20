@@ -1,0 +1,16 @@
+{
+  "title": "<Rất Vui Được Gặp Cậu>",
+  "description": "<Câu chuyện tình cảm học đường xoay quanh những con người đáng ew>",
+  "artist": "<Wishroomness ft. Paul Jun>",
+  "author": "<Wishroomness>",
+  "cover": "<https://imgur.com/a/Rg6CHsp>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<45>",
+           "groups": {
+        "<Cà Rốt Nhảm Nhí>": "/proxy/api/imgur/chapter/<jPpFdr7>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
