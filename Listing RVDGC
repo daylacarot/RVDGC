@@ -1,6 +1,6 @@
 {
-   "title":"Rất Vui Được Gặp Cậu",
-   "description":"Câu chuyện tình cảm học đường xoay quanh những con người đáng ew",
+   "title":"Rat Vui Duoc Gap Cau",
+   "description":"aaa",
    "artist":"Wishroomness & Paul Jun",
    "author":"Wishroomness",
    "cover":"https://i.imgur.com/TpDcGFF.png",
@@ -8,7 +8,7 @@
       "Chap 45":{
          "volume":"2",
          "groups":{
-            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jPpFdr7/"
+            "CRNN":"/proxy/api/imgur/chapter/jPpFdr7/"
          },
          "last_updated":"1616368746"
       }
