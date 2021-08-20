@@ -1,15 +1,16 @@
-{
-  "title": "Rất Vui Được Gặp Cậu",
-  "description": "Câu chuyện tình cảm học đường xoay quanh những con người đáng ew",
-  "artist": "Wishroomness ft. Paul Jun",
-  "author": "Wishroomness",
-  "cover": "https://i.imgur.com/TpDcGFF.png",
-  "chapters": {
-    "Chap 45": {
-                 "groups": {
-        "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/jPpFdr7"
-      },
-      "last_updated": "1616368746"
+{    
+    "title": "Rất Vui Được Gặp Cậu",
+    "description": "Câu chuyện tình cảm học đường xoay quanh những con người đáng ew",
+    "author": "Wishroomness",
+    "artist": "Wishroomness & Paul Jun",
+    "cover": "https://i.imgur.com/TpDcGFF.png",
+    "chapters": {
+        "Chap 45": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+            "last_updated": 1616368746,            
+            "volume": "2"
+        }
     }
-  }
 }
